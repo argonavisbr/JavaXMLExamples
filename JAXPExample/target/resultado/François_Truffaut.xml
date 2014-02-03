@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><diretor>
+  <nome>François Truffaut</nome>
+  <filmes>
+    <filme duracao="112" imdb="tt0060390">Fahrenheit 451</filme>
+  </filmes>
+</diretor>

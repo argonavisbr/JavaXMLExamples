@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt0457430",
+      "titulo" : "El Laberinto del Fauno",
+      "diretor" : "Guillermo del Toro",
+      "ano" : 2006,
+      "duracao" : 118
+   }
+}

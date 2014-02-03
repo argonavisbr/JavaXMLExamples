@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt1705786",
+      "titulo" : "Un Cuento Chino",
+      "diretor" : "Sebastián Borensztein",
+      "ano" : 2011,
+      "duracao" : 93
+   }
+}

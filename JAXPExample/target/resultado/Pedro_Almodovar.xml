@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><diretor>
+  <nome>Pedro Almodovar</nome>
+  <filmes>
+    <filme duracao="103" imdb="tt0113083">La Flor de mi Secreto</filme>
+    <filme duracao="120" imdb="tt1189073">La Piel que Habito</filme>
+  </filmes>
+</diretor>

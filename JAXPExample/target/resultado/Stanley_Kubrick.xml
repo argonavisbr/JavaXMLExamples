@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><diretor>
+  <nome>Stanley Kubrick</nome>
+  <filmes>
+    <filme duracao="160" imdb="tt0062622">2001: A Space Odyssey</filme>
+    <filme duracao="136" imdb="tt0066921">A Clockwork Orange</filme>
+    <filme duracao="144" imdb="tt0081505">The Shining</filme>
+  </filmes>
+</diretor>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><diretor>
+  <nome>Andrei Tarkovsky</nome>
+  <filmes>
+    <filme duracao="167" imdb="tt0069293">Solyaris</filme>
+    <filme duracao="163" imdb="tt0079944">Stalker</filme>
+  </filmes>
+</diretor>

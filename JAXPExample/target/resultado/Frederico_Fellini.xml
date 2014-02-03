@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><diretor>
+  <nome>Frederico Fellini</nome>
+  <filmes>
+    <filme duracao="123" imdb="tt0071129">Amarcord</filme>
+  </filmes>
+</diretor>

@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt1189073",
+      "titulo" : "La Piel que Habito",
+      "diretor" : "Pedro Almodovar",
+      "ano" : 2011,
+      "duracao" : 120
+   }
+}

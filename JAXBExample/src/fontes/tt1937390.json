@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt1937390",
+      "titulo" : "Nymphomaniac",
+      "diretor" : "Lars von Trier",
+      "ano" : 2013,
+      "duracao" : 330
+   }
+}

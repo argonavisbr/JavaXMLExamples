@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt0060390",
+      "titulo" : "Fahrenheit 451",
+      "diretor" : "François Truffaut",
+      "ano" : 1966,
+      "duracao" : 112
+   }
+}

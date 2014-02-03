@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><diretor>
+  <nome>Lars von Trier</nome>
+  <filmes>
+    <filme duracao="136" imdb="tt1527186">Melancolia</filme>
+    <filme duracao="330" imdb="tt1937390">Nymphomaniac</filme>
+  </filmes>
+</diretor>

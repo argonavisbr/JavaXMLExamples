@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt0062622",
+      "titulo" : "2001: A Space Odyssey",
+      "diretor" : "Stanley Kubrick",
+      "ano" : 1968,
+      "duracao" : 160
+   }
+}

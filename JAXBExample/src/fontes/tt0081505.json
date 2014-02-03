@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt0081505",
+      "titulo" : "The Shining",
+      "diretor" : "Stanley Kubrick",
+      "ano" : 1980,
+      "duracao" : 144
+   }
+}

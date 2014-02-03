@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt0069293",
+      "titulo" : "Solyaris",
+      "diretor" : "Andrei Tarkovsky",
+      "ano" : 1972,
+      "duracao" : 167
+   }
+}

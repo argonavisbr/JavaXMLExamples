@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt0071129",
+      "titulo" : "Amarcord",
+      "diretor" : "Frederico Fellini",
+      "ano" : 1973,
+      "duracao" : 123
+   }
+}

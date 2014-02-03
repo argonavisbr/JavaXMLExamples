@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt0113083",
+      "titulo" : "La Flor de mi Secreto",
+      "diretor" : "Pedro Almodovar",
+      "ano" : 1995,
+      "duracao" : 103
+   }
+}

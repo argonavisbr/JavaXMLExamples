@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt0013442",
+      "titulo" : "Nosferatu, eine Symphonie des Grauens",
+      "diretor" : "F. W. Murnau",
+      "ano" : 1922,
+      "duracao" : 81
+   }
+}

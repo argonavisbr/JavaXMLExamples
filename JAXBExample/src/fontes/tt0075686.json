@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt0075686",
+      "titulo" : "Annie Hall",
+      "diretor" : "Woody Allen",
+      "ano" : 1977,
+      "duracao" : 93
+   }
+}

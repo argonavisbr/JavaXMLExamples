@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt0066921",
+      "titulo" : "A Clockwork Orange",
+      "diretor" : "Stanley Kubrick",
+      "ano" : 1972,
+      "duracao" : 136
+   }
+}

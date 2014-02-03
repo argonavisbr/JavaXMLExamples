@@ -1,0 +1,10 @@
+{
+   "filme" : {
+      "id" : 0,
+      "imdb" : "tt0079944",
+      "titulo" : "Stalker",
+      "diretor" : "Andrei Tarkovsky",
+      "ano" : 1979,
+      "duracao" : 163
+   }
+}
